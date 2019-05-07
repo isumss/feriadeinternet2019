@@ -1,5 +1,5 @@
 # Feria de Internet UMSS 2019
-El **Centro de Estudiantes de Ingeniería de Sistemas (RUN.SISTEMAS),** concientes de la importancia que tiene promover eventos de interacción social y extensión universitaria, así mismo debido a la importancia que tiene el internet en la era digital del país, organiza actividades por el Día Mundial de Internet que se celebra el 17 de mayo de 2019.
+El **Centro de Estudiantes de Ingeniería de Sistemas (RUN.SISTEMAS),** concientes de la importancia que tiene promover eventos de interacción social y extensión universitaria, así mismo debido a la importancia que tiene el internet y las nuevas tecnologías en la era digital del país, organiza actividades por el Día Mundial de Internet que se celebra el 17 de mayo de 2019.
 
 Una de las actividades más importantes que se organizá es la Feria de Internet un evento donde estudiantes de las carreras de Ingeniería de Sistemas e Ingeniería Informática y algunas instituciones invitadas difunden sus conocimientos sobre tecnologías y servicios de internet a la comunidad unviersitaria y la población en general.
 
