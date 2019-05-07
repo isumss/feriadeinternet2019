@@ -25,7 +25,7 @@
 24. **Privacidad, principios y derechos en internet:** Aspectos ligados al a privacidad y los derechos de los datos en internet, que normas y leyes nos protegen en el mundo y bolivia, ¿están nuestros datos protegidos?.
 25. **Facturación online:** Ques es la factura digital, la factura electrónica, que es el Sistema de Facturación Electrónica?
 26. **Buscadores en internet:** Que son los buscadores, que buscadore existen, metabuscadores, buscadores te temática específico, tips y trucos a la hora de buscar información en Google.
-27. **Optimizar el uso de internet móvil** como optimizar el uso de internet móvil, como configurar las aplicaciones de redes sociales para descargar solo la información necesaria.
+27. **Optimizar el uso de datos (internet móvil) en dispositivos móviles** como optimizar el uso de internet móvil, como configurar las aplicaciones de redes sociales para descargar solo la información necesaria.
 28. **Internet Cuántico**
 29. **Internet para PyMES:** Sitios Web, Hosting Web, Social Media Manager, WhatsApp Bussiness, YouTube, Facebook Ads, Google Ads, Bit.ly, dominios, datacenters, correo corporativo.
 30. **Bitcoins y criptomonedas**
