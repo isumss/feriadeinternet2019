@@ -19,7 +19,7 @@ Para registrar su grupo siga [este enlace](https://on.umss.io/expositoresfi2019)
 
 * El registro de grupos estará habilitado hasta el día miércoles 8 de mayo a horas 23:59 PM
 * Los grupos tendrán hasta el martes 14 de mayo a horas 20:00 para presentar el afiche de su temática, el **Centro de Estudiantes** bridará capacitación en herramientas de edición (adobe illustrator, photoshop, gimp) para la elaboración de afiches. El tamaño del afiche deberá ser **9.5 x 21 cm (centimetros)**
-* Los grupos tendrán hasta el miércoles 15 de mayo para concluir la elaboración de todo el material de exposición que se usarán en ela feria, esto con la finalidad de evitar cualquier contratiempo.
+* Los grupos tendrán hasta el miércoles 15 de mayo para concluir la elaboración de todo el material de exposición que se usarán en la feria, esto con la finalidad de evitar cualquier contratiempo.
 * La fería se desarrollará el viernes 17 de mayo de 2019 de horas 09:00 a 17:30 en el paseo autonómico de nuestra universidad ubicado en el campus central de la UMSS (jordán y oquendo).
 
 # Sobre el Material
