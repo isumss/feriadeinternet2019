@@ -16,7 +16,7 @@
 15. **Servicios Online:** Google Drive, One Drive, Correo Electrónico, DropBox como gestionar la información y nuestros archivos sin usar dispositivos de almacenamiento como pendrive sino usando los servicios de la nube.
 16. **Historia y Funcionamiento de Internet:** Como se orginó el internet, como evolucionó internet, como funciona el internet a nivel global, cables submarinos, internet satelital. Mostrar algunas aplicaciones como Web Archive, como funciona el internet por cable y el internet móvil, ques esto de wifi.
 17. **Uso responsable de las redes sociales:** como usar de manera responsable las redes sociales sin poner en peligro nuestra privacidad? ciberbullying, ciberacoso, ciberdelincuencia, etc.
-19. **Hashtag como herramienta de compaña en redes sociales:** Historia del hastag, las campañas más virales y de mayor impacto, campañas sociales con hastag, campañas polítics, tips como elegir un buen hastag.
+18. **Hashtag como herramienta de compaña en redes sociales:** Historia del hastag, las campañas más virales y de mayor impacto, campañas sociales con hastag, campañas polítics, tips como elegir un buen hastag.
 19. **Servicios de Streaming:** facebook live, youtube live, soundcloud, etc.
 20. **Tipos de redes y el futuro de internet:** Redes móviles(3G, 4G), redes cableadas (fibra óptica, adsl), el futuro de internet redes 5G.
 21. **Situacion del internet en Bolivia:** precios, velocidades, tecnologías, acceso a internet.
@@ -26,5 +26,6 @@
 25. **Facturación online:** Ques es la factura digital, la factura electrónica, que es el Sistema de Facturación Electrónica?
 26. **Buscadores en internet:** Que son los buscadores, que buscadore existen, metabuscadores, buscadores te temática específico, tips y trucos a la hora de buscar información en Google.
 27. **Optimizar el uso de internet móvil** como optimizar el uso de internet móvil, como configurar las aplicaciones de redes sociales para descargar solo la información necesaria.
-28. **Internet Cuántico:**
-30. **Internet para PyMES:** Sitios Web, Hosting Web, Social Media Manager, WhatsApp Bussiness, YouTube, Facebook Ads, Google Ads, Bit.ly, dominios, datacenters, correo corporativo.
+28. **Internet Cuántico**
+29. **Internet para PyMES:** Sitios Web, Hosting Web, Social Media Manager, WhatsApp Bussiness, YouTube, Facebook Ads, Google Ads, Bit.ly, dominios, datacenters, correo corporativo.
+30. **Bitcoins y criptomonedas**
