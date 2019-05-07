@@ -8,7 +8,7 @@ Por lo que invitamos a toda la comunidad estudiantil conformar grupos para la pa
 # De los grupos
 
 * Los grupos podrán ser conformados por un mínimo de 1 (un) integrante hasta un máximo de 5 (cinco) integrantes.
-* Las temáticas sugeridas serán asignadas de acuerdo al orden de registro de los grupos, si en el formulario no aparece una temática puede que ya lo haya tomado algún otro grupo revise la lista completa de temáticas <a href="tematicas.md" target="blank">aquí</a>.
+* Las temáticas sugeridas serán asignadas de acuerdo al orden de registro de los grupos, si en el formulario no aparece una temática puede que ya lo haya tomado algún otro grupo revise la lista completa de temáticas <a href="tematicas.md" target="_blank">aquí</a>.
 * Los grupos también podrán sugerir alguna temática relacionado con tecnologías o servicios de internet que no esten incluidas en la lista de temáticas.
 
 # Registro de grupos
