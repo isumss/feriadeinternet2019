@@ -10,20 +10,20 @@
 9. **Redes Sociales:** Que son las redes sociales y de que manera se puede sacar ventaja, facbeook, twitter, linkedin, instagram, teoría de los seis grados de separación.
 10. **Computación en la nube:** Que es la computación en la nube, ventajas y beneficios.
 11. **Servicios en Internet para Profesionales:** Blogs, Gestión de Redes Sociales de manera profesional
-12. **Comercio Electrónico**
-13. **DeepWeb**
-14. **Aplicaciones de Mensajería**
-15. **Servicios Online**
+12. **Comercio Electrónico:** que es el comercio electrónico, plataformas de e-comerce (Amazon, ebay, alibaba, aliexpress, plataformas de pagos online (PayPal, tarjetas de débito internacional)
+13. **DeepWeb:** que es la deepweb y como funcioná?
+14. **Aplicaciones de Mensajería:** WhatsApp, Sype, Google Hangouts, etc.
+15. **Servicios Online:** Google Drive, One Drive, Correo Electrónico, DropBox como gestionar la información y nuestros archivos sin usar dispositivos de almacenamiento como pendrive sino usando los servicios de la nube.
 16. **Historia y Funcionamiento de Internet:** Como se orginó el internet, como evolucionó internet, como funciona el internet a nivel global, cables submarinos, internet satelital. Mostrar algunas aplicaciones como Web Archive, como funciona el internet por cable y el internet móvil, ques esto de wifi.
-17. **Uso responsable de las redes sociales**
-19. **Hashtag como herramienta de compaña en redes sociales**
-19. **Servicios de Streaming**
-20. **Tipos de redes y el futuro de internet**
-21. **Situacion del internet en Bolivia**
-22. **Vicio al internet y vivir sin internet**
-23. **Servicios online para la gestión de eventos**
-24. **Privacidad, principios y derechos en internet**
-25. **Facturación online**
+17. **Uso responsable de las redes sociales:** como usar de manera responsable las redes sociales sin poner en peligro nuestra privacidad? ciberbullying, ciberacoso, ciberdelincuencia, etc.
+19. **Hashtag como herramienta de compaña en redes sociales:** Historia del hastag, las campañas más virales y de mayor impacto, campañas sociales con hastag, campañas polítics, tips como elegir un buen hastag.
+19. **Servicios de Streaming:** facebook live, youtube live, soundcloud, etc.
+20. **Tipos de redes y el futuro de internet:** Redes móviles(3G, 4G), redes cableadas (fibra óptica, adsl), el futuro de internet redes 5G.
+21. **Situacion del internet en Bolivia:** precios, velocidades, tecnologías, acceso a internet.
+22. **Vicio al internet y vivir sin internet:** Que elementos debemos tomar encuenta para considerar si nos estamos volviendo adictos al internet, ¿Se puedo vivir sin internet?
+23. **Servicios online para la gestión de eventos:** Que servicios nos permite gestionar de mejor manera nuestros eventos? eventbrite, amiando, facebook events, etc.
+24. **Privacidad, principios y derechos en internet:** Aspectos ligados al a privacidad y los derechos de los datos en internet, que normas y leyes nos protegen en el mundo y bolivia, ¿están nuestros datos protegidos?.
+25. **Facturación online:** Ques es la factura digital, la factura electrónica, que es el Sistema de Facturación Electrónica?
 26. **Buscadores en internet:** Que son los buscadores, que buscadore existen, metabuscadores, buscadores te temática específico, tips y trucos a la hora de buscar información en Google.
 27. **Optimizar el uso de internet móvil** como optimizar el uso de internet móvil, como configurar las aplicaciones de redes sociales para descargar solo la información necesaria.
 28. **Internet Cuántico:**
